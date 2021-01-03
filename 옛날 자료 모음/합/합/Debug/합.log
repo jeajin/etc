@@ -1,0 +1,46 @@
+﻿  홍성재.c
+c:\users\재진\documents\visual studio 2015\projects\합\합\홍성재.c(68): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\홍성재.c(109): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\재진\documents\visual studio 2015\projects\합\합\홍성재.c(99): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\홍성재.c(99): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  최룡.c
+  임권일.c
+c:\users\재진\documents\visual studio 2015\projects\합\합\임권일.c(105): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\임권일.c(178): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  이주상.c
+  이상민.c
+  윤대은.c
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(52): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(86): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(120): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(154): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(231): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(231): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(233): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(233): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  오승헌.c
+c:\users\재진\documents\visual studio 2015\projects\합\합\오승헌.c(135): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\오승헌.c(116): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\오승헌.c(263): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\오승헌.c(244): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  양민하.c
+  안효정.c
+  안성원.c
+  신은규.c
+c:\users\재진\documents\visual studio 2015\projects\합\합\신은규.c(41): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  선우성웅.c
+  백승민.c
+  박진호.c
+  김호용.c
+  김정환.c
+  김재진.c
+  김인겸.c
+  김민준.c
+  main.c
+  코드를 생성하고 있습니다...
+c:\users\재진\documents\visual studio 2015\projects\합\합\윤대은.c(465): warning C4716: 'main18': 값을 반환해야 합니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\이주상.c(218): warning C4715: 'five_dol': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\임권일.c(121): warning C4715: 'movechoongdol': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\재진\documents\visual studio 2015\projects\합\합\최룡.c(293): warning C4715: 'main17': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  합.vcxproj -> C:\Users\재진\documents\visual studio 2015\Projects\합\Debug\합.exe

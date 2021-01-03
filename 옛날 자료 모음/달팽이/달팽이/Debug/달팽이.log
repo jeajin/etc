@@ -1,0 +1,4 @@
+﻿  소스.c
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/PROFILE' 사양으로 인해 무시됩니다.
+소스.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:REF' 사양으로 인해 무시됩니다.
+  달팽이.vcxproj -> C:\Users\ZIN\Desktop\달팽이\Debug\달팽이.exe
