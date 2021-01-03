@@ -1,4 +1,0 @@
-﻿  원.c
-C:\Users\ZIN\Desktop\원\원\원.c(26,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-원.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
-  원.vcxproj -> C:\Users\ZIN\Desktop\원\Debug\원.exe
