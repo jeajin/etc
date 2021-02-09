@@ -1,0 +1,65 @@
+유용한 사이트
+리눅스 기본 명령어
+http://betatester.tistory.com/23  :: 리눅스 명령어
+소셜 빅데이터 분석 사이트
+http://www.some.co.kr/socialSearch.html (시각화가 잘되어 있습니다. ppt만들기에 매우 적합합니다.)
+ 대기업들의 빅데이터 트렌즈 분석 (네이버,구글)
+http://datalab.naver.com/opendata.naver (공공데이터 사용가능)
+http://www.google.com/trends (나라 단위로 분석하여 추이도를 알수 있음)
+Node.js + Express.js로 웹서버 만들기 튜토리얼
+http://velopert.com/294
+IT 이슈 및 기사 모음 블로그
+http://plug.hani.co.kr/futures
+http://www.techholic.co.kr/
+HTML Editor
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro
+CURL 사용법
+https://www.lesstif.com/pages/viewpage.action?pageId=14745703
+REST에 대한 이해
+https://www.joinc.co.kr/w/man/12/rest/about
+각종 언어 및 클라이언트, 서버, 개발도구, 프로젝트 관리 강의
+https://opentutorials.org/course/1
+안드로이드 오픈 소스 공유
+http://square.github.io/
+https://android-arsenal.com/
+Google VR View, Video
+http://square.github.io/
+무료 아이콘 사이트
+https://www.iconfinder.com/
+http://iconmonstr.com/
+Git에 대한 이해 및 실습, 정리
+https://opentutorials.org/course/1492
+가상머신(Virtual Box)에 우분투 14.04 서버 세팅
+https://rorlab.gitbooks.io/railsguidebook/content/appendices/ubuntu14server.html
+Ubuntu 14.04 LTS에서 APM(apache, php5, mysql) 설치하기
+http://freeprog.tistory.com/m/19
+Ubuntu 방화벽(ufw) 설정
+http://webdir.tistory.com/206
+SQL 데이터 백업 및 복원
+https://tuwlab.com/ece/2729
+BK21플러스(빅데이터 공유자료)
+http://datascience.khu.ac.kr/board/bbs/board.php?bo_table=05_01&page=4&page=1
+N2H4 (네이버 뉴스 기사 및 댓글 크롤링)
+https://github.com/forkonlp/N2H4/wiki
+Scala 지도시간(언어 공부)
+http://www.w3ii.com/ko/scala/default.html
+Ubuntu Apache & Tomcat 연동
+http://yoongi.tistory.com/87
+오픈소스 Chart(차트)라이브러리
+http://nuli.navercorp.com/sharing/nwagon#nWagon-intro
+https://www.highcharts.com/demo/dynamic-update/sand-signika
+http://www.flotcharts.org/
+http://smoothiecharts.org/
+http://www.jqueryflottutorial.com/how-to-make-jquery-flot-realtime-update-chart.html
+https://kmongcom.wordpress.com/2014/03/18/%EC%8A%A4%EB%AC%B4%EB%94%94smoothie%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0/
+배경 화면 (고화질, 초고화질)
+https://unsplash.com/
+Zepplin 관련 SlideShare
+https://www.slideshare.net/JunKim22?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+조대협 블로그(빅데이터, 클라우드 컴퓨팅, NoSQL, 아키텍쳐, 프로그래밍 등등)
+http://bcho.tistory.com/
+Apache Kafka 관련 설명
+http://epicdevs.com/17
+.httaccess 관련 옵션 설정
+링크
+링크2
